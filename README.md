@@ -7,7 +7,7 @@
 - [JHyeok 님의 TIL](https://github.com/JHyeok/TIL)
 
 ## 목차
-- (https://github.com/dimohy/TIL/tree/master/TIL/Daily)
+- [Daily](https://github.com/dimohy/TIL/tree/master/Daily)
 - [ASP.NET Core Blazor](#blazor)
 
 
